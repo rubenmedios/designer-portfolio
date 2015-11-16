@@ -5,7 +5,7 @@ layout: default
 <div class="home">
 
   <!-- Feature post-->
-    <section class="site-section site-section-last">
+    <section class="site-section">
     <div class="wrapper">
       <h1>Featured article</h1> 
       {% assign count = 0 %} 
@@ -14,7 +14,7 @@ layout: default
 
         <div class="post post-featured">
           {% include post.html %}
-          </div>
+        </div>
           {% assign count = count | plus: 1 %} 
           {% endif %}
           {% endfor %}
