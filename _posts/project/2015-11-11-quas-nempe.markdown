@@ -3,7 +3,7 @@ layout: post
 title:  "Project 1"
 date:   2015-11-11 18:03:02 -0430
 categories: project
-featured_image: "images/project.png"
+featured_image: "/images/project.png"
 tags: info pepe
 ---
 
