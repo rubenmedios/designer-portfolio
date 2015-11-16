@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Clamore o ramos submisit"
-date:   2015-11-14 18:03:02 -0430
+title:  "quas nempe"
+date:   2015-11-11 18:03:02 -0430
 categories: jekyll update
-featured: true
 ---
 
 ## Clamore o ramos submisit adfectas Zanclen Hersilien
