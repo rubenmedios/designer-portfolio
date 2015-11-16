@@ -7,7 +7,7 @@ layout: default
     <p class="post-meta">posted on {{ page.date | date: "%b %-d, %Y" }}</p>
     {% if page.featured_image %}
       <div class="post-image">
-        <img src="{{ page.featured_image }}" alt="featured image">
+        <img src="{{ site.baseurl }}{{ page.featured_image }}" alt="featured image">
       </div>
     {%  endif %}
   </header>
