@@ -2,7 +2,7 @@
 layout: post
 title:  "quas nempe"
 date:   2015-11-11 18:03:02 -0430
-categories: jekyll update
+categories: blog
 tags: info pepe
 ---
 

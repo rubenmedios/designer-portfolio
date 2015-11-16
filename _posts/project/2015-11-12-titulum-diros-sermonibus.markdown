@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "titulum diros sermonibus"
+title:  "Proyecto 2"
 date:   2015-11-12 18:03:02 -0430
-categories: jekyll update
+categories: project
 featured: true
+featured_image: "images/project.png"
 tags: pepe otra
 ---
 

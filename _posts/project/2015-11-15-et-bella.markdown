@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Et bella"
+title:  "Project 3"
 date:   2015-11-15 18:03:02 -0430
-categories: jekyll update
+categories: project
+featured_image: "images/project.png"
 tags: pepe otra
 ---
 
