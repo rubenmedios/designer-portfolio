@@ -55,6 +55,18 @@
 }
 
 
+/* Sections */
+
+.site-seccion {
+    @extends %clearfix;
+    padding-top: h1-font-size;
+}
+.site-seccion-last {
+    padding-bottom: h1-font-size;
+}
+
+
+
 /**
  * Page content
  */
