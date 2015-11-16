@@ -14,12 +14,16 @@ permalink: /:categories/:title
 
 links:
   - title: about
+    titledesc: pepe es lo mio
     url: /about
   - title: work
+    titledesc: pepe es lo mio
     url: /work
   - title: articles
+    titledesc: pepe es lo mio
     url: /articles
   - title: hire me
+    titledesc: pepe es lo mio
     url: /hire-me
 
 # Build settings
