@@ -4,7 +4,7 @@ email: ruben.media@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Freelance web designer and developer, specializing in Jekyll,
   HTML, CSS and Javascript.
-baseurl: "designer-portfolio" # the subpath of your site, e.g. /blog
+baseurl: "/designer-portfolio" # the subpath of your site, e.g. /blog
 url: "http://example.com" # the base hostname & protocol for your site
 twitter_username: rubenmedios
 github_username:  rubenmedios
