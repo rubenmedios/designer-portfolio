@@ -56,8 +56,11 @@ img {
 /**
  * Figures
  */
+
+
 figure > img {
     display: block;
+    max-width: 100%;
 }
 
 figcaption {
