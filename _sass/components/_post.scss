@@ -4,7 +4,7 @@
 }
 .post {
   float: left;
-  width: 50%;
+  // width: 50%;
   padding: 0 3em 1em;
 
   &:nth-child(odd) {
@@ -54,5 +54,11 @@
   h1, h2, h3, h4 {
     max-width: 80%;
     margin: $h2-font-size;
+  }
+}
+
+@media screen and (min-width: 960px) {
+  .post {
+    width: 50%;
   }
 }
