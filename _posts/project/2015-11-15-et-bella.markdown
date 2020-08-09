@@ -16,6 +16,9 @@ constitit regalia, terrae vestrum recipit voluntas populari fraterque Cimmerios
 quod titulum diros sermonibus summo est! Sensit minis Caucasiumque domos
 Propoetidas rata obiecta parat, et aut tale.
 
+![dali dibujo]({{site.baseurl}}/_posts/project/pngocean.com.png)
+
+
     if (diskScsiMonitor + row + -2 - barcraft) {
         lan_ocr_yottabyte.search = hackerDomain + zipBluetoothStorage;
         latency_boot = isaProgram + 5 + fragmentation_logic_jsp;
