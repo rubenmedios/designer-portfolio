@@ -17,6 +17,8 @@ Propoetidas rata obiecta parat, et aut tale.
 
 ![pngocean.com.png]({{site.baseurl}}/_posts/project/pngocean.com.png)
 
+<iframe width="1424" height="576" src="https://www.youtube.com/embed/HANfPCP_g4o?list=PLUBR53Dw-Ef_oTLzPB3G5CdLWnGOSsec3" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
     if (diskScsiMonitor + row + -2 - barcraft) {
         lan_ocr_yottabyte.search = hackerDomain + zipBluetoothStorage;
