@@ -8,7 +8,6 @@ tags: pepe otra
 published: true
 ---
 
-{:.pepe}
 ## Clamore o ramos submisit adfectas Zanclen Hersilien
 
 Lorem markdownum fovet. Vera **fuerat septem** penetralia carpis. Victor
